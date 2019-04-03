@@ -1,4 +1,4 @@
-#### [分布式事务基础知识分享](http://192.168.32.55:10086/WangCong/txlcn-demo/blob/master/distributed-transaction.md)
+#### [分布式事务基础知识分享](https://github.com/DeclanWang/txlcn-demo/blob/master/distributed-transaction.md)
 
 ------
 
